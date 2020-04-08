@@ -13,6 +13,7 @@ import (
 	"github.com/garyburd/redigo/redis"
 	"bytes"
 	"encoding/gob"
+    "times"
 )
 
 //定义controller
